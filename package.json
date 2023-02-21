@@ -1,0 +1,24 @@
+{
+  "name": "random-character-strings",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorGalindoPedraza/random-character-strings.git"
+  },
+  "keywords": ["random", "string", "node"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HectorGalindoPedraza/random-character-strings/issues"
+  },
+  "homepage": "https://github.com/HectorGalindoPedraza/random-character-strings#readme",
+  "bin": {
+    "random-character-strings": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
