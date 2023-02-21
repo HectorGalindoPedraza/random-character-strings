@@ -1,6 +1,6 @@
 {
   "name": "random-character-strings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random string messages",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/HectorGalindoPedraza/random-character-strings.git"
   },
-  "keywords": ["random", "string", "node"],
+  "keywords": [
+    "random",
+    "string",
+    "node"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
